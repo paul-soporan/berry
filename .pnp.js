@@ -6054,7 +6054,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["remark-html", "npm:9.0.0"],
             ["remark-parse", "npm:6.0.3"],
             ["typedoc", "virtual:118b26a6cee620b5aa3e7e8d8b8e34cd9e486f75b92701001168da9be550fadd8c9d9b12643c642e2d528c2624fd8fe7e128eec9d715340efac44400432a0e0c#npm:0.17.0-3"],
-            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c"],
             ["typescript", "patch:typescript@npm%3A3.8.3#builtin<compat/typescript>::version=3.8.3&hash=270b6c"],
             ["unescape-html", "npm:1.1.0"],
             ["unfetch", "npm:4.1.0"],
@@ -28276,7 +28276,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["progress", "npm:2.0.3"],
             ["shelljs", "npm:0.8.3"],
             ["typedoc-default-themes", "npm:0.8.0-0"],
-            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c"],
             ["typescript", "patch:typescript@npm%3A3.8.3#builtin<compat/typescript>::version=3.8.3&hash=270b6c"]
           ],
           "packagePeers": [
@@ -28286,10 +28286,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["virtual:d8499f743f1cd9948247ca1524b8a73e0c7d28e54d7c4eaa36ae8a005afa7bb8d23206d5d608c4d1b5ee9e5a7da36887d5f742afd92a57a1fd1e14e05a25d719#npm:0.16.0", {
-          "packageLocation": "./.yarn/$$virtual/typedoc-virtual-9c4e96158a/0/cache/typedoc-npm-0.16.0-9a319ae5f1-2.zip/node_modules/typedoc/",
+        ["virtual:af622028ec32c4c74979aa6145b077312ae2b8aa3268b80217867be1156a5c1aaccaa8c764fd3bc4f97a04118ad208a85549a77c4dfacb77611b64597a6453a3#npm:0.16.0", {
+          "packageLocation": "./.yarn/$$virtual/typedoc-virtual-27bac1aaaf/0/cache/typedoc-npm-0.16.0-9a319ae5f1-2.zip/node_modules/typedoc/",
           "packageDependencies": [
-            ["typedoc", "virtual:d8499f743f1cd9948247ca1524b8a73e0c7d28e54d7c4eaa36ae8a005afa7bb8d23206d5d608c4d1b5ee9e5a7da36887d5f742afd92a57a1fd1e14e05a25d719#npm:0.16.0"],
+            ["typedoc", "virtual:af622028ec32c4c74979aa6145b077312ae2b8aa3268b80217867be1156a5c1aaccaa8c764fd3bc4f97a04118ad208a85549a77c4dfacb77611b64597a6453a3#npm:0.16.0"],
             ["@strictsoftware/typedoc-plugin-monorepo", null],
             ["@types/minimatch", "npm:3.0.3"],
             ["fs-extra", "npm:8.1.0"],
@@ -28301,7 +28301,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["progress", "npm:2.0.3"],
             ["shelljs", "npm:0.8.3"],
             ["typedoc-default-themes", "npm:0.7.2"],
-            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c"],
             ["typescript", "patch:typescript@npm%3A3.7.4#builtin<compat/typescript>::version=3.7.4&hash=270b6c"]
           ],
           "packagePeers": [
@@ -28336,11 +28336,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["typedoc-yarn-theme", [
-        ["paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af", {
-          "packageLocation": "./.yarn/unplugged/typedoc-yarn-theme-exotic-d8499f743f/node_modules/typedoc-yarn-theme/",
+        ["paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c", {
+          "packageLocation": "./.yarn/unplugged/typedoc-yarn-theme-exotic-af622028ec/node_modules/typedoc-yarn-theme/",
           "packageDependencies": [
-            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
-            ["typedoc", "virtual:d8499f743f1cd9948247ca1524b8a73e0c7d28e54d7c4eaa36ae8a005afa7bb8d23206d5d608c4d1b5ee9e5a7da36887d5f742afd92a57a1fd1e14e05a25d719#npm:0.16.0"]
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c"],
+            ["typedoc", "virtual:af622028ec32c4c74979aa6145b077312ae2b8aa3268b80217867be1156a5c1aaccaa8c764fd3bc4f97a04118ad208a85549a77c4dfacb77611b64597a6453a3#npm:0.16.0"]
           ],
           "linkType": "HARD",
         }]

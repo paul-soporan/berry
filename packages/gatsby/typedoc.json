@@ -3,7 +3,7 @@
   "inputFiles": ["../."],
   "mode": "modules",
   "out": "./static/api",
-  "theme": "../../.yarn/unplugged/typedoc-yarn-theme-exotic-d8499f743f/node_modules/typedoc-yarn-theme/bin/default",
+  "theme": "../../.yarn/unplugged/typedoc-yarn-theme-exotic-af622028ec/node_modules/typedoc-yarn-theme/bin/default",
   "plugin": ["typedoc-yarn-theme", "@strictsoftware/typedoc-plugin-monorepo"],
   "external-modulemap": ".*packages\/([^\/]+)\/.*",
   "ignoreCompilerErrors": true,

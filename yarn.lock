@@ -24832,12 +24832,12 @@ resolve@^1.10.1:
   languageName: node
   linkType: hard
 
-"typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme, typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af":
+"typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme, typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c":
   version: 2.0.0
-  resolution: "typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"
+  resolution: "typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme#commit:bb971fcc5f55bcfaf079ec310bf2347d6b06248c"
   dependencies:
     typedoc: 0.16.0
-  checksum: 2/fbd1157ef1b7fa800e0a448bf6f3623cd20cf13d13536423753524989b5ae0b524203c0ab6ea076f77b861b47a511c0d482b2a1502a5a7f0bc88c38ccaa2d8dd
+  checksum: 2/4762dd20463cb0577a7f6117ffb5165dd864c9340b8484636be647109fe33d38181092ffca7eed53f3abdaf161a309957a1851c8f322ea3218fbd3f4b4e70c9e
   languageName: node
   linkType: hard
 
