@@ -53,7 +53,7 @@
     "svg2png": {
       "unplugged": true
     },
-    "typedoc-neo-theme": {
+    "typedoc-yarn-theme": {
       "unplugged": true
     },
     "webpack-cli": {

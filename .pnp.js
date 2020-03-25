@@ -6054,7 +6054,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["remark-html", "npm:9.0.0"],
             ["remark-parse", "npm:6.0.3"],
             ["typedoc", "virtual:118b26a6cee620b5aa3e7e8d8b8e34cd9e486f75b92701001168da9be550fadd8c9d9b12643c642e2d528c2624fd8fe7e128eec9d715340efac44400432a0e0c#npm:0.17.0-3"],
-            ["typedoc-neo-theme", "npm:1.0.7"],
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
             ["typescript", "patch:typescript@npm%3A3.8.3#builtin<compat/typescript>::version=3.8.3&hash=270b6c"],
             ["unescape-html", "npm:1.1.0"],
             ["unfetch", "npm:4.1.0"],
@@ -28276,20 +28276,20 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["progress", "npm:2.0.3"],
             ["shelljs", "npm:0.8.3"],
             ["typedoc-default-themes", "npm:0.8.0-0"],
-            ["typedoc-neo-theme", "npm:1.0.7"],
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
             ["typescript", "patch:typescript@npm%3A3.8.3#builtin<compat/typescript>::version=3.8.3&hash=270b6c"]
           ],
           "packagePeers": [
-            "typedoc-neo-theme",
             "@strictsoftware/typedoc-plugin-monorepo",
+            "typedoc-yarn-theme",
             "typescript"
           ],
           "linkType": "HARD",
         }],
-        ["virtual:d8a22236835ea6a343a6f368c384af7c307d527652163c1cfc56292a2b4e7d055c3e2d0ac6817157cd52f801ddf4aeddee76e681fa2e9a53e9fb60482401a352#npm:0.16.0", {
-          "packageLocation": "./.yarn/$$virtual/typedoc-virtual-f54c45100f/0/cache/typedoc-npm-0.16.0-9a319ae5f1-2.zip/node_modules/typedoc/",
+        ["virtual:d8499f743f1cd9948247ca1524b8a73e0c7d28e54d7c4eaa36ae8a005afa7bb8d23206d5d608c4d1b5ee9e5a7da36887d5f742afd92a57a1fd1e14e05a25d719#npm:0.16.0", {
+          "packageLocation": "./.yarn/$$virtual/typedoc-virtual-9c4e96158a/0/cache/typedoc-npm-0.16.0-9a319ae5f1-2.zip/node_modules/typedoc/",
           "packageDependencies": [
-            ["typedoc", "virtual:d8a22236835ea6a343a6f368c384af7c307d527652163c1cfc56292a2b4e7d055c3e2d0ac6817157cd52f801ddf4aeddee76e681fa2e9a53e9fb60482401a352#npm:0.16.0"],
+            ["typedoc", "virtual:d8499f743f1cd9948247ca1524b8a73e0c7d28e54d7c4eaa36ae8a005afa7bb8d23206d5d608c4d1b5ee9e5a7da36887d5f742afd92a57a1fd1e14e05a25d719#npm:0.16.0"],
             ["@strictsoftware/typedoc-plugin-monorepo", null],
             ["@types/minimatch", "npm:3.0.3"],
             ["fs-extra", "npm:8.1.0"],
@@ -28301,12 +28301,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["progress", "npm:2.0.3"],
             ["shelljs", "npm:0.8.3"],
             ["typedoc-default-themes", "npm:0.7.2"],
-            ["typedoc-neo-theme", "npm:1.0.7"],
-            ["typescript", "patch:typescript@npm%3A3.7.5#builtin<compat/typescript>::version=3.7.5&hash=270b6c"]
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
+            ["typescript", "patch:typescript@npm%3A3.7.4#builtin<compat/typescript>::version=3.7.4&hash=270b6c"]
           ],
           "packagePeers": [
-            "typedoc-neo-theme",
-            "@strictsoftware/typedoc-plugin-monorepo"
+            "@strictsoftware/typedoc-plugin-monorepo",
+            "typedoc-yarn-theme"
           ],
           "linkType": "HARD",
         }]
@@ -28335,12 +28335,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
-      ["typedoc-neo-theme", [
-        ["npm:1.0.7", {
-          "packageLocation": "./.yarn/unplugged/typedoc-neo-theme-npm-1.0.7-d8a2223683/node_modules/typedoc-neo-theme/",
+      ["typedoc-yarn-theme", [
+        ["paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af", {
+          "packageLocation": "./.yarn/unplugged/typedoc-yarn-theme-exotic-d8499f743f/node_modules/typedoc-yarn-theme/",
           "packageDependencies": [
-            ["typedoc-neo-theme", "npm:1.0.7"],
-            ["typedoc", "virtual:d8a22236835ea6a343a6f368c384af7c307d527652163c1cfc56292a2b4e7d055c3e2d0ac6817157cd52f801ddf4aeddee76e681fa2e9a53e9fb60482401a352#npm:0.16.0"]
+            ["typedoc-yarn-theme", "paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"],
+            ["typedoc", "virtual:d8499f743f1cd9948247ca1524b8a73e0c7d28e54d7c4eaa36ae8a005afa7bb8d23206d5d608c4d1b5ee9e5a7da36887d5f742afd92a57a1fd1e14e05a25d719#npm:0.16.0"]
           ],
           "linkType": "HARD",
         }]
@@ -28350,13 +28350,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/typescript-patch-60167ea2ba-2.zip/node_modules/typescript/",
           "packageDependencies": [
             ["typescript", "patch:typescript@npm%3A3.7.4#builtin<compat/typescript>::version=3.7.4&hash=270b6c"]
-          ],
-          "linkType": "HARD",
-        }],
-        ["patch:typescript@npm%3A3.7.5#builtin<compat/typescript>::version=3.7.5&hash=270b6c", {
-          "packageLocation": "./.yarn/cache/typescript-patch-59b570bfcd-2.zip/node_modules/typescript/",
-          "packageDependencies": [
-            ["typescript", "patch:typescript@npm%3A3.7.5#builtin<compat/typescript>::version=3.7.5&hash=270b6c"]
           ],
           "linkType": "HARD",
         }],

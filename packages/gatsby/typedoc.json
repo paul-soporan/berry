@@ -3,8 +3,8 @@
   "inputFiles": ["../."],
   "mode": "modules",
   "out": "./static/api",
-  "theme": "../../.yarn/unplugged/typedoc-neo-theme-npm-1.0.7-d8a2223683/node_modules/typedoc-neo-theme/bin/default",
-  "plugin": ["typedoc-neo-theme", "@strictsoftware/typedoc-plugin-monorepo"],
+  "theme": "../../.yarn/unplugged/typedoc-yarn-theme-exotic-d8499f743f/node_modules/typedoc-yarn-theme/bin/default",
+  "plugin": ["typedoc-yarn-theme", "@strictsoftware/typedoc-plugin-monorepo"],
   "external-modulemap": ".*packages\/([^\/]+)\/.*",
   "ignoreCompilerErrors": true,
   "links": [
@@ -17,20 +17,8 @@
       "url": "/configuration"
     },
     {
-      "label": "Features",
-      "url": "/features"
-    },
-    {
       "label": "CLI",
       "url": "/cli"
-    },
-    {
-      "label": "Advanced",
-      "url": "/advanced"
-    },
-    {
-      "label": "GitHub",
-      "url": "https://github.com/yarnpkg/berry"
     }
   ],
   "outline": [

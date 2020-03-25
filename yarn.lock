@@ -5032,7 +5032,7 @@ __metadata:
     remark-html: ^9.0.0
     remark-parse: ^6.0.3
     typedoc: next
-    typedoc-neo-theme: ^1.0.7
+    typedoc-yarn-theme: paul-soporan/typedoc-yarn-theme
     typescript: ^3.8.3
     unescape-html: ^1.1.0
     unfetch: ^4.1.0
@@ -5119,7 +5119,7 @@ __metadata:
       built: false
     svg2png:
       unplugged: true
-    typedoc-neo-theme:
+    typedoc-yarn-theme:
       unplugged: true
     webpack-cli:
       built: false
@@ -24832,12 +24832,12 @@ resolve@^1.10.1:
   languageName: node
   linkType: hard
 
-"typedoc-neo-theme@npm:1.0.7, typedoc-neo-theme@npm:^1.0.7":
-  version: 1.0.7
-  resolution: "typedoc-neo-theme@npm:1.0.7"
+"typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme, typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af":
+  version: 2.0.0
+  resolution: "typedoc-yarn-theme@paul-soporan/typedoc-yarn-theme#commit:8ed73719068699cdbe98a4d1bef28dac16f1e5af"
   dependencies:
     typedoc: 0.16.0
-  checksum: 2/c789b77158b76108ec1257e78760297f23495e258e1bc25896e87fd21feea45c83c63f5dc584c8ee75ec00ca395b1c4669737f179ee04f6303aa842b6e09d064
+  checksum: 2/fbd1157ef1b7fa800e0a448bf6f3623cd20cf13d13536423753524989b5ae0b524203c0ab6ea076f77b861b47a511c0d482b2a1502a5a7f0bc88c38ccaa2d8dd
   languageName: node
   linkType: hard
 
@@ -24884,23 +24884,13 @@ resolve@^1.10.1:
   languageName: node
   linkType: hard
 
-typescript@*:
+"typescript@*, typescript@3.7.x":
   version: 3.7.4
   resolution: "typescript@npm:3.7.4"
   bin:
     tsc: ./bin/tsc
     tsserver: ./bin/tsserver
   checksum: 2/a209372aa8a68f245bbf564b3f9f14b17789c38458fd911bf067b48eba58cab9264055d71c6e081ed8bd6477ad6272fe915db5f825b5c3facb2b242bdb1d3ce6
-  languageName: node
-  linkType: hard
-
-typescript@3.7.x:
-  version: 3.7.5
-  resolution: "typescript@npm:3.7.5"
-  bin:
-    tsc: bin/tsc
-    tsserver: bin/tsserver
-  checksum: 2/48a96fb7dc48746e6b76cf0946545181b0d5013368e510768402f1374e6c6a9f29b00e8ca4f40bc7523a655473f7bc7c55d1c8458970e96b7187bcee1b47e96b
   languageName: node
   linkType: hard
 
@@ -24914,23 +24904,13 @@ typescript@^3.8.3:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@*#builtin<compat/typescript>":
+"typescript@patch:typescript@*#builtin<compat/typescript>, typescript@patch:typescript@3.7.x#builtin<compat/typescript>":
   version: 3.7.4
   resolution: "typescript@patch:typescript@npm%3A3.7.4#builtin<compat/typescript>::version=3.7.4&hash=270b6c"
   bin:
     tsc: ./bin/tsc
     tsserver: ./bin/tsserver
   checksum: 2/4f36eded6c32575e53a9459ccc0061f69daad53ce5e5f36c56216798f3930209aebea32b5f8f3f92f8fc5d7b6519a2b88dd26a1159c085906f4a52ea98b3de11
-  languageName: node
-  linkType: hard
-
-"typescript@patch:typescript@3.7.x#builtin<compat/typescript>":
-  version: 3.7.5
-  resolution: "typescript@patch:typescript@npm%3A3.7.5#builtin<compat/typescript>::version=3.7.5&hash=270b6c"
-  bin:
-    tsc: bin/tsc
-    tsserver: bin/tsserver
-  checksum: 2/b752545a379ecd1318d897e4adce464591e827abf65e57f5da45f5ffc2e739cdfdf00a316c211b09615797ac1dfa4ead939de67cf6f3d1bcfc58d66167c1c391
   languageName: node
   linkType: hard
 
